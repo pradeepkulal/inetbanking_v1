@@ -1,0 +1,547 @@
+2022-09-22 16:45:39,444  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 16:45:39,582  INFO [main] ebanking:15 - user name done
+2022-09-22 16:45:39,834  INFO [main] ebanking:16 - password is added
+2022-09-22 16:45:42,079  INFO [main] ebanking:17 - submit clicked
+2022-09-22 16:45:44,192  INFO [main] ebanking:20 - New customer is clicked
+2022-09-22 16:48:08,552  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 16:48:08,807  INFO [main] ebanking:14 - User name enter
+2022-09-22 16:48:08,930  INFO [main] ebanking:15 - password is enterd
+2022-09-22 16:48:10,967  INFO [main] ebanking:16 - Submit clicked
+2022-09-22 16:48:10,985  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-22 16:48:18,719  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 16:48:25,449  WARN [main] ebanking:31 - login passed
+2022-09-22 16:49:01,112  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 16:49:01,274  INFO [main] ebanking:15 - user name done
+2022-09-22 16:49:01,395  INFO [main] ebanking:16 - password is added
+2022-09-22 16:49:03,077  INFO [main] ebanking:17 - submit clicked
+2022-09-22 16:49:05,209  INFO [main] ebanking:20 - New customer is clicked
+2022-09-22 17:01:20,747  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 17:01:21,008  INFO [main] ebanking:14 - User name enter
+2022-09-22 17:01:21,176  INFO [main] ebanking:15 - password is enterd
+2022-09-22 17:01:24,560  INFO [main] ebanking:16 - Submit clicked
+2022-09-22 17:01:24,577  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-22 17:01:32,674  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 17:01:39,042  WARN [main] ebanking:31 - login passed
+2022-09-22 17:02:20,539  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 17:02:20,776  INFO [main] ebanking:15 - user name done
+2022-09-22 17:02:20,895  INFO [main] ebanking:16 - password is added
+2022-09-22 17:02:24,762  INFO [main] ebanking:17 - submit clicked
+2022-09-22 17:02:26,869  INFO [main] ebanking:20 - New customer is clicked
+2022-09-22 17:02:28,049  INFO [main] ebanking:21 - iframe closed
+2022-09-22 17:02:28,150  INFO [main] ebanking:22 - cust name added
+2022-09-22 17:02:28,297  INFO [main] ebanking:23 - gender selected
+2022-09-22 17:02:28,516  INFO [main] ebanking:24 - DOB done
+2022-09-22 17:02:29,638  INFO [main] ebanking:26 - Address added
+2022-09-22 17:02:29,735  INFO [main] ebanking:27 - City added
+2022-09-22 17:02:29,829  INFO [main] ebanking:28 - state added
+2022-09-22 17:02:29,944  INFO [main] ebanking:29 - PIN added
+2022-09-22 17:02:30,058  INFO [main] ebanking:30 - number added
+2022-09-22 17:02:30,202  INFO [main] ebanking:32 - mail added
+2022-09-22 17:02:30,321  INFO [main] ebanking:33 - password cust added
+2022-09-22 17:02:32,831  INFO [main] ebanking:34 - submit clicked
+2022-09-22 17:02:34,833  INFO [main] ebanking:92 - Checking for contains
+2022-09-22 17:11:55,625  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 17:11:55,911  INFO [main] ebanking:14 - User name enter
+2022-09-22 17:11:56,030  INFO [main] ebanking:15 - password is enterd
+2022-09-22 17:11:58,315  INFO [main] ebanking:16 - Submit clicked
+2022-09-22 17:11:58,332  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-22 17:12:06,366  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 17:12:11,509  WARN [main] ebanking:32 - login passed
+2022-09-22 17:12:47,606  INFO [main] ebanking:45 - URL is Opend
+2022-09-22 17:12:47,784  INFO [main] ebanking:15 - user name done
+2022-09-22 17:12:47,939  INFO [main] ebanking:16 - password is added
+2022-09-22 17:12:50,170  INFO [main] ebanking:17 - submit clicked
+2022-09-22 17:12:52,287  INFO [main] ebanking:20 - New customer is clicked
+2022-09-22 17:20:01,454  INFO [main] ebanking:46 - URL is Opend
+2022-09-22 17:20:01,699  INFO [main] ebanking:14 - User name enter
+2022-09-22 17:20:01,849  INFO [main] ebanking:15 - password is enterd
+2022-09-22 17:20:03,829  INFO [main] ebanking:16 - Submit clicked
+2022-09-22 17:20:03,841  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-22 17:20:11,773  INFO [main] ebanking:46 - URL is Opend
+2022-09-22 17:20:16,932  WARN [main] ebanking:31 - login passed
+2022-09-22 17:20:24,437  WARN [main] ebanking:24 - login failed
+2022-09-22 17:20:31,083  WARN [main] ebanking:24 - login failed
+2022-09-22 17:20:36,275  WARN [main] ebanking:24 - login failed
+2022-09-22 17:20:41,533  WARN [main] ebanking:24 - login failed
+2022-09-22 17:20:46,651  WARN [main] ebanking:24 - login failed
+2022-09-22 17:20:55,100  INFO [main] ebanking:46 - URL is Opend
+2022-09-22 17:20:55,212  INFO [main] ebanking:15 - user name done
+2022-09-22 17:20:55,420  INFO [main] ebanking:16 - password is added
+2022-09-22 17:20:57,553  INFO [main] ebanking:17 - submit clicked
+2022-09-22 17:20:59,665  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 09:29:55,965  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 09:29:56,369  INFO [main] ebanking:14 - User name enter
+2022-09-23 09:29:56,566  INFO [main] ebanking:15 - password is enterd
+2022-09-23 09:29:58,565  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 09:29:58,582  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 09:30:05,814  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 09:30:11,281  WARN [main] ebanking:31 - login passed
+2022-09-23 09:30:18,669  WARN [main] ebanking:24 - login failed
+2022-09-23 09:30:24,022  WARN [main] ebanking:24 - login failed
+2022-09-23 09:30:29,294  WARN [main] ebanking:24 - login failed
+2022-09-23 09:30:34,552  WARN [main] ebanking:24 - login failed
+2022-09-23 09:30:39,864  WARN [main] ebanking:24 - login failed
+2022-09-23 09:30:47,201  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 09:30:47,404  INFO [main] ebanking:15 - user name done
+2022-09-23 09:30:47,650  INFO [main] ebanking:16 - password is added
+2022-09-23 09:30:49,807  INFO [main] ebanking:17 - submit clicked
+2022-09-23 09:30:51,926  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 10:04:59,346  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 10:04:59,689  INFO [main] ebanking:14 - User name enter
+2022-09-23 10:04:59,880  INFO [main] ebanking:15 - password is enterd
+2022-09-23 10:05:01,566  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 10:05:01,590  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 10:05:08,342  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 10:05:14,328  WARN [main] ebanking:31 - login passed
+2022-09-23 10:05:23,336  WARN [main] ebanking:24 - login failed
+2022-09-23 10:05:29,312  WARN [main] ebanking:24 - login failed
+2022-09-23 10:05:35,001  WARN [main] ebanking:24 - login failed
+2022-09-23 10:05:40,565  WARN [main] ebanking:24 - login failed
+2022-09-23 10:05:48,186  WARN [main] ebanking:24 - login failed
+2022-09-23 10:05:55,300  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 10:05:55,639  INFO [main] ebanking:15 - user name done
+2022-09-23 10:05:55,830  INFO [main] ebanking:16 - password is added
+2022-09-23 10:05:58,151  INFO [main] ebanking:17 - submit clicked
+2022-09-23 10:06:00,275  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 10:07:24,538  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 10:07:24,947  INFO [main] ebanking:14 - User name enter
+2022-09-23 10:07:25,134  INFO [main] ebanking:15 - password is enterd
+2022-09-23 10:07:27,029  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 10:07:27,050  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 10:07:34,469  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 10:07:40,045  WARN [main] ebanking:31 - login passed
+2022-09-23 10:07:48,647  WARN [main] ebanking:24 - login failed
+2022-09-23 10:07:54,929  WARN [main] ebanking:24 - login failed
+2022-09-23 10:08:00,422  WARN [main] ebanking:24 - login failed
+2022-09-23 10:08:05,889  WARN [main] ebanking:24 - login failed
+2022-09-23 10:08:11,211  WARN [main] ebanking:24 - login failed
+2022-09-23 10:08:18,354  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 10:08:18,742  INFO [main] ebanking:15 - user name done
+2022-09-23 10:08:18,919  INFO [main] ebanking:16 - password is added
+2022-09-23 10:08:21,107  INFO [main] ebanking:17 - submit clicked
+2022-09-23 10:08:23,243  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 10:08:27,335  INFO [main] ebanking:22 - cust name added
+2022-09-23 10:08:27,490  INFO [main] ebanking:23 - gender selected
+2022-09-23 10:08:27,698  INFO [main] ebanking:24 - DOB done
+2022-09-23 10:08:28,880  INFO [main] ebanking:26 - Address added
+2022-09-23 10:08:29,041  INFO [main] ebanking:27 - City added
+2022-09-23 10:08:29,177  INFO [main] ebanking:28 - state added
+2022-09-23 10:08:29,355  INFO [main] ebanking:29 - PIN added
+2022-09-23 10:08:29,552  INFO [main] ebanking:30 - number added
+2022-09-23 10:08:29,807  INFO [main] ebanking:32 - mail added
+2022-09-23 10:08:30,066  INFO [main] ebanking:33 - password cust added
+2022-09-23 10:08:32,153  INFO [main] ebanking:34 - submit clicked
+2022-09-23 10:08:34,162  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 11:17:05,831  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:17:05,935  INFO [main] ebanking:14 - User name enter
+2022-09-23 11:17:05,995  INFO [main] ebanking:15 - password is enterd
+2022-09-23 11:17:08,968  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 11:17:08,975  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 11:17:14,811  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:17:20,075  WARN [main] ebanking:31 - login passed
+2022-09-23 11:17:26,972  WARN [main] ebanking:24 - login failed
+2022-09-23 11:17:31,964  WARN [main] ebanking:24 - login failed
+2022-09-23 11:17:36,844  WARN [main] ebanking:24 - login failed
+2022-09-23 11:17:41,612  WARN [main] ebanking:24 - login failed
+2022-09-23 11:17:46,371  WARN [main] ebanking:24 - login failed
+2022-09-23 11:17:52,119  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:17:52,187  INFO [main] ebanking:15 - user name done
+2022-09-23 11:17:52,242  INFO [main] ebanking:16 - password is added
+2022-09-23 11:17:53,701  INFO [main] ebanking:17 - submit clicked
+2022-09-23 11:17:55,742  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 11:17:57,669  INFO [main] ebanking:22 - cust name added
+2022-09-23 11:17:57,703  INFO [main] ebanking:23 - gender selected
+2022-09-23 11:17:57,837  INFO [main] ebanking:24 - DOB done
+2022-09-23 11:17:58,893  INFO [main] ebanking:26 - Address added
+2022-09-23 11:17:58,939  INFO [main] ebanking:27 - City added
+2022-09-23 11:17:58,982  INFO [main] ebanking:28 - state added
+2022-09-23 11:17:59,040  INFO [main] ebanking:29 - PIN added
+2022-09-23 11:17:59,112  INFO [main] ebanking:30 - number added
+2022-09-23 11:17:59,198  INFO [main] ebanking:32 - mail added
+2022-09-23 11:17:59,266  INFO [main] ebanking:33 - password cust added
+2022-09-23 11:18:00,166  INFO [main] ebanking:34 - submit clicked
+2022-09-23 11:18:02,179  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 11:22:06,709  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:22:06,805  INFO [main] ebanking:14 - User name enter
+2022-09-23 11:22:06,891  INFO [main] ebanking:15 - password is enterd
+2022-09-23 11:22:08,924  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 11:22:08,930  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 11:22:15,361  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:22:19,604  WARN [main] ebanking:31 - login passed
+2022-09-23 11:22:26,815  WARN [main] ebanking:24 - login failed
+2022-09-23 11:22:32,416  WARN [main] ebanking:24 - login failed
+2022-09-23 11:22:37,241  WARN [main] ebanking:24 - login failed
+2022-09-23 11:22:41,956  WARN [main] ebanking:24 - login failed
+2022-09-23 11:22:46,630  WARN [main] ebanking:24 - login failed
+2022-09-23 11:22:53,692  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:22:53,760  INFO [main] ebanking:15 - user name done
+2022-09-23 11:22:53,828  INFO [main] ebanking:16 - password is added
+2022-09-23 11:22:56,622  INFO [main] ebanking:17 - submit clicked
+2022-09-23 11:22:58,663  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 11:23:56,529  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:23:56,622  INFO [main] ebanking:14 - User name enter
+2022-09-23 11:23:56,681  INFO [main] ebanking:15 - password is enterd
+2022-09-23 11:23:59,563  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 11:23:59,570  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 11:24:06,098  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:24:10,669  WARN [main] ebanking:31 - login passed
+2022-09-23 11:24:18,295  WARN [main] ebanking:24 - login failed
+2022-09-23 11:24:25,996  WARN [main] ebanking:24 - login failed
+2022-09-23 11:24:30,829  WARN [main] ebanking:24 - login failed
+2022-09-23 11:24:35,722  WARN [main] ebanking:24 - login failed
+2022-09-23 11:24:40,735  WARN [main] ebanking:24 - login failed
+2022-09-23 11:24:50,833  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 11:24:50,903  INFO [main] ebanking:15 - user name done
+2022-09-23 11:24:50,960  INFO [main] ebanking:16 - password is added
+2022-09-23 11:24:52,914  INFO [main] ebanking:17 - submit clicked
+2022-09-23 11:24:54,959  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 11:24:57,695  INFO [main] ebanking:22 - cust name added
+2022-09-23 11:24:57,732  INFO [main] ebanking:23 - gender selected
+2022-09-23 11:24:57,864  INFO [main] ebanking:24 - DOB done
+2022-09-23 11:24:58,915  INFO [main] ebanking:26 - Address added
+2022-09-23 11:24:58,962  INFO [main] ebanking:27 - City added
+2022-09-23 11:24:59,001  INFO [main] ebanking:28 - state added
+2022-09-23 11:24:59,056  INFO [main] ebanking:29 - PIN added
+2022-09-23 11:24:59,116  INFO [main] ebanking:30 - number added
+2022-09-23 11:24:59,199  INFO [main] ebanking:32 - mail added
+2022-09-23 11:24:59,267  INFO [main] ebanking:33 - password cust added
+2022-09-23 11:25:01,077  INFO [main] ebanking:34 - submit clicked
+2022-09-23 11:25:03,078  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 11:25:03,089  INFO [main] ebanking:38 - Test case passed
+2022-09-23 12:48:02,435  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 12:48:02,511  INFO [main] ebanking:14 - User name enter
+2022-09-23 12:48:02,561  INFO [main] ebanking:15 - password is enterd
+2022-09-23 12:48:04,385  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 12:48:04,391  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 12:48:10,356  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 12:48:14,732  WARN [main] ebanking:31 - login passed
+2022-09-23 12:49:29,032  WARN [main] ebanking:31 - login passed
+2022-09-23 12:49:44,645  WARN [main] ebanking:24 - login failed
+2022-09-23 12:49:49,413  WARN [main] ebanking:24 - login failed
+2022-09-23 12:49:54,098  WARN [main] ebanking:24 - login failed
+2022-09-23 12:49:58,759  WARN [main] ebanking:24 - login failed
+2022-09-23 12:50:05,538  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 12:50:05,610  INFO [main] ebanking:15 - user name done
+2022-09-23 12:50:05,655  INFO [main] ebanking:16 - password is added
+2022-09-23 12:50:08,664  INFO [main] ebanking:17 - submit clicked
+2022-09-23 12:50:10,711  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 12:50:13,049  INFO [main] ebanking:22 - cust name added
+2022-09-23 12:50:13,083  INFO [main] ebanking:23 - gender selected
+2022-09-23 12:50:13,208  INFO [main] ebanking:24 - DOB done
+2022-09-23 12:50:14,256  INFO [main] ebanking:26 - Address added
+2022-09-23 12:50:14,295  INFO [main] ebanking:27 - City added
+2022-09-23 12:50:14,333  INFO [main] ebanking:28 - state added
+2022-09-23 12:50:14,376  INFO [main] ebanking:29 - PIN added
+2022-09-23 12:50:14,420  INFO [main] ebanking:30 - number added
+2022-09-23 12:50:14,471  INFO [main] ebanking:32 - mail added
+2022-09-23 12:50:14,516  INFO [main] ebanking:33 - password cust added
+2022-09-23 12:50:15,102  INFO [main] ebanking:34 - submit clicked
+2022-09-23 12:50:17,111  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 12:55:54,276  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 12:55:54,348  INFO [main] ebanking:14 - User name enter
+2022-09-23 12:55:54,392  INFO [main] ebanking:15 - password is enterd
+2022-09-23 12:55:57,437  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 12:55:57,445  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 12:57:33,548  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 12:57:33,624  INFO [main] ebanking:14 - User name enter
+2022-09-23 12:57:33,728  INFO [main] ebanking:15 - password is enterd
+2022-09-23 12:57:36,633  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 12:57:36,640  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 12:59:21,740  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 12:59:21,812  INFO [main] ebanking:14 - User name enter
+2022-09-23 12:59:21,858  INFO [main] ebanking:15 - password is enterd
+2022-09-23 12:59:24,107  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 12:59:24,113  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 13:01:16,056  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:01:16,129  INFO [main] ebanking:14 - User name enter
+2022-09-23 13:01:16,175  INFO [main] ebanking:15 - password is enterd
+2022-09-23 13:01:17,761  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 13:01:17,767  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 13:46:42,218  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:46:42,290  INFO [main] ebanking:14 - User name enter
+2022-09-23 13:46:42,343  INFO [main] ebanking:15 - password is enterd
+2022-09-23 13:46:43,916  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 13:46:43,924  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 13:54:33,372  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:54:33,458  INFO [main] ebanking:15 - user name done
+2022-09-23 13:54:33,504  INFO [main] ebanking:16 - password is added
+2022-09-23 13:54:35,002  INFO [main] ebanking:17 - submit clicked
+2022-09-23 13:54:37,045  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 13:54:39,650  INFO [main] ebanking:22 - cust name added
+2022-09-23 13:54:39,686  INFO [main] ebanking:23 - gender selected
+2022-09-23 13:54:39,825  INFO [main] ebanking:24 - DOB done
+2022-09-23 13:54:40,874  INFO [main] ebanking:26 - Address added
+2022-09-23 13:54:40,929  INFO [main] ebanking:27 - City added
+2022-09-23 13:54:40,979  INFO [main] ebanking:28 - state added
+2022-09-23 13:54:41,036  INFO [main] ebanking:29 - PIN added
+2022-09-23 13:54:41,091  INFO [main] ebanking:30 - number added
+2022-09-23 13:54:41,155  INFO [main] ebanking:32 - mail added
+2022-09-23 13:54:41,205  INFO [main] ebanking:33 - password cust added
+2022-09-23 13:54:43,556  INFO [main] ebanking:34 - submit clicked
+2022-09-23 13:54:45,557  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 13:54:45,572  INFO [main] ebanking:38 - Test case passed
+2022-09-23 13:56:01,496  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:56:01,593  INFO [main] ebanking:14 - User name enter
+2022-09-23 13:56:01,646  INFO [main] ebanking:15 - password is enterd
+2022-09-23 13:56:03,544  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 13:56:03,551  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 13:56:11,879  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:56:16,188  WARN [main] ebanking:31 - login passed
+2022-09-23 13:56:22,829  WARN [main] ebanking:24 - login failed
+2022-09-23 13:56:27,613  WARN [main] ebanking:24 - login failed
+2022-09-23 13:56:32,496  WARN [main] ebanking:24 - login failed
+2022-09-23 13:56:37,157  WARN [main] ebanking:24 - login failed
+2022-09-23 13:56:41,760  WARN [main] ebanking:24 - login failed
+2022-09-23 13:56:50,002  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:56:50,049  INFO [main] ebanking:15 - user name done
+2022-09-23 13:56:50,093  INFO [main] ebanking:16 - password is added
+2022-09-23 13:56:53,087  INFO [main] ebanking:17 - submit clicked
+2022-09-23 13:56:55,133  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 13:56:58,948  INFO [main] ebanking:22 - cust name added
+2022-09-23 13:56:58,985  INFO [main] ebanking:23 - gender selected
+2022-09-23 13:56:59,114  INFO [main] ebanking:24 - DOB done
+2022-09-23 13:57:00,159  INFO [main] ebanking:26 - Address added
+2022-09-23 13:57:00,201  INFO [main] ebanking:27 - City added
+2022-09-23 13:57:00,239  INFO [main] ebanking:28 - state added
+2022-09-23 13:57:00,290  INFO [main] ebanking:29 - PIN added
+2022-09-23 13:57:00,336  INFO [main] ebanking:30 - number added
+2022-09-23 13:57:00,391  INFO [main] ebanking:32 - mail added
+2022-09-23 13:57:00,438  INFO [main] ebanking:33 - password cust added
+2022-09-23 13:57:02,804  INFO [main] ebanking:34 - submit clicked
+2022-09-23 13:57:04,808  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 13:57:04,818  INFO [main] ebanking:38 - Test case passed
+2022-09-23 13:58:41,754  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:58:41,827  INFO [main] ebanking:14 - User name enter
+2022-09-23 13:58:41,871  INFO [main] ebanking:15 - password is enterd
+2022-09-23 13:58:43,351  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 13:58:43,357  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 13:59:25,963  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:59:26,054  INFO [main] ebanking:14 - User name enter
+2022-09-23 13:59:26,103  INFO [main] ebanking:15 - password is enterd
+2022-09-23 13:59:29,010  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 13:59:29,017  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 13:59:34,680  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 13:59:39,544  WARN [main] ebanking:31 - login passed
+2022-09-23 13:59:46,271  WARN [main] ebanking:24 - login failed
+2022-09-23 13:59:51,248  WARN [main] ebanking:24 - login failed
+2022-09-23 13:59:55,968  WARN [main] ebanking:24 - login failed
+2022-09-23 14:00:21,160  WARN [main] ebanking:31 - login passed
+2022-09-23 14:00:36,495  WARN [main] ebanking:24 - login failed
+2022-09-23 14:00:42,351  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 14:00:42,398  INFO [main] ebanking:15 - user name done
+2022-09-23 14:00:42,444  INFO [main] ebanking:16 - password is added
+2022-09-23 14:00:44,472  INFO [main] ebanking:17 - submit clicked
+2022-09-23 14:00:46,515  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 14:00:50,568  INFO [main] ebanking:22 - cust name added
+2022-09-23 14:00:50,602  INFO [main] ebanking:23 - gender selected
+2022-09-23 14:00:50,726  INFO [main] ebanking:24 - DOB done
+2022-09-23 14:00:51,769  INFO [main] ebanking:26 - Address added
+2022-09-23 14:00:51,807  INFO [main] ebanking:27 - City added
+2022-09-23 14:00:51,843  INFO [main] ebanking:28 - state added
+2022-09-23 14:00:51,886  INFO [main] ebanking:29 - PIN added
+2022-09-23 14:00:51,929  INFO [main] ebanking:30 - number added
+2022-09-23 14:00:51,978  INFO [main] ebanking:32 - mail added
+2022-09-23 14:00:52,020  INFO [main] ebanking:33 - password cust added
+2022-09-23 14:00:54,354  INFO [main] ebanking:34 - submit clicked
+2022-09-23 14:00:56,357  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 14:00:56,366  INFO [main] ebanking:38 - Test case passed
+2022-09-23 15:10:28,554  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:10:28,624  INFO [main] ebanking:14 - User name enter
+2022-09-23 15:10:28,695  INFO [main] ebanking:15 - password is enterd
+2022-09-23 15:10:31,169  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 15:10:31,176  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 15:10:37,641  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:10:41,995  WARN [main] ebanking:31 - login passed
+2022-09-23 15:10:48,793  WARN [main] ebanking:24 - login failed
+2022-09-23 15:10:56,230  WARN [main] ebanking:24 - login failed
+2022-09-23 15:11:02,481  WARN [main] ebanking:24 - login failed
+2022-09-23 15:11:07,423  WARN [main] ebanking:24 - login failed
+2022-09-23 15:11:12,166  WARN [main] ebanking:24 - login failed
+2022-09-23 15:11:20,388  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:11:20,459  INFO [main] ebanking:15 - user name done
+2022-09-23 15:11:20,511  INFO [main] ebanking:16 - password is added
+2022-09-23 15:11:22,546  INFO [main] ebanking:17 - submit clicked
+2022-09-23 15:11:24,603  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 15:11:29,457  INFO [main] ebanking:22 - cust name added
+2022-09-23 15:11:29,491  INFO [main] ebanking:23 - gender selected
+2022-09-23 15:11:29,626  INFO [main] ebanking:24 - DOB done
+2022-09-23 15:11:30,677  INFO [main] ebanking:26 - Address added
+2022-09-23 15:11:30,714  INFO [main] ebanking:27 - City added
+2022-09-23 15:11:30,751  INFO [main] ebanking:28 - state added
+2022-09-23 15:11:30,799  INFO [main] ebanking:29 - PIN added
+2022-09-23 15:11:30,840  INFO [main] ebanking:30 - number added
+2022-09-23 15:11:30,892  INFO [main] ebanking:32 - mail added
+2022-09-23 15:11:30,937  INFO [main] ebanking:33 - password cust added
+2022-09-23 15:11:32,685  INFO [main] ebanking:34 - submit clicked
+2022-09-23 15:11:34,701  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 15:11:34,711  INFO [main] ebanking:38 - Test case passed
+2022-09-23 15:14:49,715  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:14:49,787  INFO [main] ebanking:14 - User name enter
+2022-09-23 15:14:49,876  INFO [main] ebanking:15 - password is enterd
+2022-09-23 15:14:51,877  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 15:14:51,885  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 15:14:59,759  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:15:04,022  WARN [main] ebanking:31 - login passed
+2022-09-23 15:15:10,685  WARN [main] ebanking:24 - login failed
+2022-09-23 15:15:17,744  WARN [main] ebanking:24 - login failed
+2022-09-23 15:15:22,469  WARN [main] ebanking:24 - login failed
+2022-09-23 15:15:27,146  WARN [main] ebanking:24 - login failed
+2022-09-23 15:15:31,844  WARN [main] ebanking:24 - login failed
+2022-09-23 15:15:40,703  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:15:40,755  INFO [main] ebanking:15 - user name done
+2022-09-23 15:15:40,802  INFO [main] ebanking:16 - password is added
+2022-09-23 15:15:42,804  INFO [main] ebanking:17 - submit clicked
+2022-09-23 15:15:44,847  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 15:15:48,381  INFO [main] ebanking:22 - cust name added
+2022-09-23 15:15:48,413  INFO [main] ebanking:23 - gender selected
+2022-09-23 15:15:48,535  INFO [main] ebanking:24 - DOB done
+2022-09-23 15:15:49,580  INFO [main] ebanking:26 - Address added
+2022-09-23 15:15:49,616  INFO [main] ebanking:27 - City added
+2022-09-23 15:15:49,656  INFO [main] ebanking:28 - state added
+2022-09-23 15:15:49,702  INFO [main] ebanking:29 - PIN added
+2022-09-23 15:15:49,747  INFO [main] ebanking:30 - number added
+2022-09-23 15:15:49,797  INFO [main] ebanking:32 - mail added
+2022-09-23 15:15:49,842  INFO [main] ebanking:33 - password cust added
+2022-09-23 15:15:52,150  INFO [main] ebanking:34 - submit clicked
+2022-09-23 15:15:54,155  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 15:15:54,167  INFO [main] ebanking:38 - Test case passed
+2022-09-23 15:18:14,888  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:18:14,973  INFO [main] ebanking:14 - User name enter
+2022-09-23 15:18:15,023  INFO [main] ebanking:15 - password is enterd
+2022-09-23 15:18:17,798  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 15:18:17,805  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 15:18:24,096  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:18:29,413  WARN [main] ebanking:31 - login passed
+2022-09-23 15:18:36,117  WARN [main] ebanking:24 - login failed
+2022-09-23 15:18:41,142  WARN [main] ebanking:24 - login failed
+2022-09-23 15:18:45,976  WARN [main] ebanking:24 - login failed
+2022-09-23 15:18:50,686  WARN [main] ebanking:24 - login failed
+2022-09-23 15:18:55,364  WARN [main] ebanking:24 - login failed
+2022-09-23 15:19:01,134  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:19:01,183  INFO [main] ebanking:15 - user name done
+2022-09-23 15:19:01,264  INFO [main] ebanking:16 - password is added
+2022-09-23 15:19:03,172  INFO [main] ebanking:17 - submit clicked
+2022-09-23 15:19:05,216  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 15:19:07,976  INFO [main] ebanking:22 - cust name added
+2022-09-23 15:19:08,008  INFO [main] ebanking:23 - gender selected
+2022-09-23 15:19:08,129  INFO [main] ebanking:24 - DOB done
+2022-09-23 15:19:09,179  INFO [main] ebanking:26 - Address added
+2022-09-23 15:19:09,219  INFO [main] ebanking:27 - City added
+2022-09-23 15:19:09,256  INFO [main] ebanking:28 - state added
+2022-09-23 15:19:09,302  INFO [main] ebanking:29 - PIN added
+2022-09-23 15:19:09,347  INFO [main] ebanking:30 - number added
+2022-09-23 15:19:09,399  INFO [main] ebanking:32 - mail added
+2022-09-23 15:19:09,443  INFO [main] ebanking:33 - password cust added
+2022-09-23 15:19:10,333  INFO [main] ebanking:34 - submit clicked
+2022-09-23 15:19:12,343  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 15:22:15,697  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:22:15,767  INFO [main] ebanking:14 - User name enter
+2022-09-23 15:22:15,817  INFO [main] ebanking:15 - password is enterd
+2022-09-23 15:22:17,819  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 15:22:17,825  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 15:22:24,435  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:22:28,870  WARN [main] ebanking:31 - login passed
+2022-09-23 15:22:35,470  WARN [main] ebanking:24 - login failed
+2022-09-23 15:22:41,684  WARN [main] ebanking:24 - login failed
+2022-09-23 15:22:46,540  WARN [main] ebanking:24 - login failed
+2022-09-23 15:22:51,122  WARN [main] ebanking:24 - login failed
+2022-09-23 15:22:55,776  WARN [main] ebanking:24 - login failed
+2022-09-23 15:23:03,297  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:23:03,343  INFO [main] ebanking:15 - user name done
+2022-09-23 15:23:03,424  INFO [main] ebanking:16 - password is added
+2022-09-23 15:23:05,570  INFO [main] ebanking:17 - submit clicked
+2022-09-23 15:23:07,614  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 15:23:10,401  INFO [main] ebanking:22 - cust name added
+2022-09-23 15:23:10,435  INFO [main] ebanking:23 - gender selected
+2022-09-23 15:23:10,554  INFO [main] ebanking:24 - DOB done
+2022-09-23 15:23:11,626  INFO [main] ebanking:26 - Address added
+2022-09-23 15:23:11,665  INFO [main] ebanking:27 - City added
+2022-09-23 15:23:11,707  INFO [main] ebanking:28 - state added
+2022-09-23 15:23:11,754  INFO [main] ebanking:29 - PIN added
+2022-09-23 15:23:11,799  INFO [main] ebanking:30 - number added
+2022-09-23 15:23:11,854  INFO [main] ebanking:32 - mail added
+2022-09-23 15:23:11,900  INFO [main] ebanking:33 - password cust added
+2022-09-23 15:23:14,238  INFO [main] ebanking:34 - submit clicked
+2022-09-23 15:23:16,251  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 15:23:16,265  INFO [main] ebanking:38 - Test case passed
+2022-09-23 15:24:33,296  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:24:33,367  INFO [main] ebanking:14 - User name enter
+2022-09-23 15:24:33,415  INFO [main] ebanking:15 - password is enterd
+2022-09-23 15:24:35,476  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 15:24:35,482  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 15:24:42,700  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:24:47,039  WARN [main] ebanking:31 - login passed
+2022-09-23 15:24:53,699  WARN [main] ebanking:24 - login failed
+2022-09-23 15:24:58,478  WARN [main] ebanking:24 - login failed
+2022-09-23 15:25:03,543  WARN [main] ebanking:24 - login failed
+2022-09-23 15:25:08,300  WARN [main] ebanking:24 - login failed
+2022-09-23 15:25:35,212  WARN [main] ebanking:31 - login passed
+2022-09-23 15:25:52,339  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 15:25:52,405  INFO [main] ebanking:15 - user name done
+2022-09-23 15:25:52,450  INFO [main] ebanking:16 - password is added
+2022-09-23 15:25:53,911  INFO [main] ebanking:17 - submit clicked
+2022-09-23 15:25:55,954  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 15:26:00,962  INFO [main] ebanking:22 - cust name added
+2022-09-23 15:26:00,995  INFO [main] ebanking:23 - gender selected
+2022-09-23 15:26:01,123  INFO [main] ebanking:24 - DOB done
+2022-09-23 15:26:02,165  INFO [main] ebanking:26 - Address added
+2022-09-23 15:26:02,205  INFO [main] ebanking:27 - City added
+2022-09-23 15:26:02,247  INFO [main] ebanking:28 - state added
+2022-09-23 15:26:02,290  INFO [main] ebanking:29 - PIN added
+2022-09-23 15:26:02,335  INFO [main] ebanking:30 - number added
+2022-09-23 15:26:02,385  INFO [main] ebanking:32 - mail added
+2022-09-23 15:26:02,432  INFO [main] ebanking:33 - password cust added
+2022-09-23 15:26:04,404  INFO [main] ebanking:34 - submit clicked
+2022-09-23 15:26:06,406  INFO [main] ebanking:84 - Checking for contains
+2022-09-23 15:26:06,416  INFO [main] ebanking:38 - Test case passed
+2022-09-23 18:40:43,694  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 18:40:43,785  INFO [main] ebanking:14 - User name enter
+2022-09-23 18:40:43,830  INFO [main] ebanking:15 - password is enterd
+2022-09-23 18:40:46,312  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 18:40:46,318  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 18:40:52,680  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 18:40:57,045  WARN [main] ebanking:31 - login passed
+2022-09-23 18:41:04,262  WARN [main] ebanking:24 - login failed
+2022-09-23 18:41:11,540  WARN [main] ebanking:24 - login failed
+2022-09-23 18:46:13,686  WARN [main] ebanking:24 - login failed
+2022-09-23 18:46:40,359  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 18:46:40,403  INFO [main] ebanking:15 - user name done
+2022-09-23 18:46:40,440  INFO [main] ebanking:16 - password is added
+2022-09-23 18:46:42,597  INFO [main] ebanking:17 - submit clicked
+2022-09-23 18:46:44,637  INFO [main] ebanking:20 - New customer is clicked
+2022-09-23 18:51:59,617  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 18:51:59,717  INFO [main] ebanking:14 - User name enter
+2022-09-23 18:51:59,778  INFO [main] ebanking:15 - password is enterd
+2022-09-23 18:52:02,233  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 18:52:02,240  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-23 18:52:54,387  INFO [main] ebanking:46 - URL is Opend
+2022-09-23 18:52:54,475  INFO [main] ebanking:14 - User name enter
+2022-09-23 18:52:54,519  INFO [main] ebanking:15 - password is enterd
+2022-09-23 18:52:55,971  INFO [main] ebanking:16 - Submit clicked
+2022-09-23 18:52:55,978  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-26 11:45:47,279  INFO [main] ebanking:46 - URL is Opend
+2022-09-26 11:45:47,350  INFO [main] ebanking:14 - User name enter
+2022-09-26 11:45:47,434  INFO [main] ebanking:15 - password is enterd
+2022-09-26 11:45:49,424  INFO [main] ebanking:16 - Submit clicked
+2022-09-26 11:45:49,431  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-26 11:46:05,015  INFO [main] ebanking:46 - URL is Opend
+2022-09-26 11:46:05,101  INFO [main] ebanking:14 - User name enter
+2022-09-26 11:46:05,150  INFO [main] ebanking:15 - password is enterd
+2022-09-26 11:46:07,280  INFO [main] ebanking:16 - Submit clicked
+2022-09-26 11:46:07,287  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-26 11:49:20,380  INFO [main] ebanking:46 - URL is Opend
+2022-09-26 11:49:20,450  INFO [main] ebanking:14 - User name enter
+2022-09-26 11:49:20,491  INFO [main] ebanking:15 - password is enterd
+2022-09-26 11:49:22,047  INFO [main] ebanking:16 - Submit clicked
+2022-09-26 11:49:22,054  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-26 12:33:31,667  INFO [main] ebanking:46 - URL is Opend
+2022-09-26 12:34:56,557  INFO [main] ebanking:46 - URL is Opend
+2022-09-26 12:34:56,630  INFO [main] ebanking:14 - User name enter
+2022-09-26 12:34:56,699  INFO [main] ebanking:15 - password is enterd
+2022-09-26 12:34:58,848  INFO [main] ebanking:16 - Submit clicked
+2022-09-26 12:34:58,854  INFO [main] ebanking:20 - Test case with valid data passed
+2022-09-26 17:52:13,400  INFO [main] ebanking:46 - URL is Opend
+2022-09-26 17:52:13,493  INFO [main] ebanking:14 - User name enter
+2022-09-26 17:52:13,536  INFO [main] ebanking:15 - password is enterd
+2022-09-26 17:52:17,829  INFO [main] ebanking:16 - Submit clicked
+2022-09-26 17:52:17,836  INFO [main] ebanking:20 - Test case with valid data passed
